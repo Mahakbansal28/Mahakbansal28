@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mahak bansal
+- 👀 I’m interested in Writing and Coding. 
+- 🌱 I’m currently learning Data Science. 
+- 📫 You can reach me through linkedin @https://www.linkedin.com/in/mahak-bansal-a156041b2/ 
